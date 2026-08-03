@@ -1,2 +1,2 @@
-print("Kumusta, Accenture Cloud & Python Automation!")
-
+print("Accenture 2026!")
+print("Cloud Engineer")
